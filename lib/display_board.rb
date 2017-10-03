@@ -3,14 +3,14 @@ def display_board
   cell = "   "
   cellSeparator = "|"
   line separator = "-----------"
-  line = cell + cellSeparator +  cell + cellSeparator + cell
+  line = "   |   |   "
 
   puts line
   puts lineSeparator
   puts line
   puts lineSeparator
   puts line
-  
+
 
 
 end
