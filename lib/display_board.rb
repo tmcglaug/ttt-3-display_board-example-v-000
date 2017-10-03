@@ -11,4 +11,3 @@ print "```
 end
 
 display_board
-
